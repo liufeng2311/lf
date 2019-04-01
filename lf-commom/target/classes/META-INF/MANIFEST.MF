@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: lf-commom
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LiuFeng
+Implementation-Vendor-Id: com.beiming
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/lf/lf-commom
+Created-By: Maven Integration for Eclipse
+
